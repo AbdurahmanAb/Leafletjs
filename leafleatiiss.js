@@ -32,4 +32,4 @@ function iss(){
       first = false;
   }
 })}
-//setInterval(drawmap, 1000)
+setInterval(drawmap, 1000)
